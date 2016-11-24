@@ -1,0 +1,19 @@
+{
+  "name": "limi-query-string",
+  "version": "0.0.1",
+  "description": "get url params",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/limichange/limi-query-string.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/limichange/limi-query-string/issues"
+  },
+  "homepage": "https://github.com/limichange/limi-query-string#readme"
+}
