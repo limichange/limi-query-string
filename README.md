@@ -1,2 +1,11 @@
 # limi-query-string
-get url params
+
+> http://stackoverflow.com/questions/979975/how-to-get-the-value-from-the-get-parameters
+
+```js
+import queryUrl form 'limi-query-string'
+
+let string = queryUrl()
+
+console.log(string)
+```
